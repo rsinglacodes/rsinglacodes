@@ -2,9 +2,6 @@
 🔭 I’m currently working on Full-Stack Web Development and AI projects<br><br>👯 I’m looking to collaborate on Hackathons and Open Source projects<br><br>🤝 I’m looking for help with Competitive Programming and System Design<br><br>🌱 I’m currently learning DSA and Artificial Intelligence<br><br>💬 Ask me about Python, Java, C++, Django, Flask, and Azure<br><br>⚡Team Lead at AI Nexus 2026 National Hackathon and Microsoft Certified in AZ-900, AI-900, and DP-900.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridhi-singla-9640b6307/)
-
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
