@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full-Stack Web Development and AI projects<br><br>👯 I’m looking to collaborate on Hackathons and Open Source projects<br><br>🤝 I’m looking for help with Competitive Programming and System Design<br><br>🌱 I’m currently learning Advanced DSA, Cloud Computing, and Artificial Intelligence<br><br>💬 Ask me about Python, Java, C++, Django, Flask, and Azure<br><br>⚡ Fun fact: Team Lead at AI Nexus 2026 National Hackathon and Microsoft Certified in AZ-900, AI-900, and DP-900.
+🔭 I’m currently working on Full-Stack Web Development and AI projects<br><br>👯 I’m looking to collaborate on Hackathons and Open Source projects<br><br>🤝 I’m looking for help with Competitive Programming and System Design<br><br>🌱 I’m currently learning DSA and Artificial Intelligence<br><br>💬 Ask me about Python, Java, C++, Django, Flask, and Azure<br><br>⚡Team Lead at AI Nexus 2026 National Hackathon and Microsoft Certified in AZ-900, AI-900, and DP-900.
 
 
 ## 🌐 Socials:
